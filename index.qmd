@@ -1,0 +1,14 @@
+---
+title: "Second attempt"
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+
+
+
